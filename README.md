@@ -2,6 +2,7 @@
 Generator of QR code using for pairing HomeKit accessory
 
 It's able to generate full image
+
 ![qrcode.png](qrcode.png)
 
 or only QR code
@@ -13,6 +14,8 @@ Just call in console:
 ```console
 docker-compose up
 ```
+
+and visit: http://localhost:2000
 
 # Form
 
